@@ -1,0 +1,45 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7c9ad817-9104-8443-8f35-619f912f37b7++8040",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "11cd6892-7bdf-4890-ba15-c9344b2a9149" : {
+
+    },
+    "7c9ad817-9104-8443-8f35-619f912f37b7++2336" : {
+
+    },
+    "7c9ad817-9104-8443-8f35-619f912f37b7++8040" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "11cd6892-7bdf-4890-ba15-c9344b2a9149" : 0,
+    "7c9ad817-9104-8443-8f35-619f912f37b7++2336" : 0,
+    "7c9ad817-9104-8443-8f35-619f912f37b7++8040" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "864F897F-2BB0-42D0-9075-70391FD4269D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "11cd6892-7bdf-4890-ba15-c9344b2a9149" : "",
+    "7c9ad817-9104-8443-8f35-619f912f37b7++2336" : "ORBSLAM-OSX\/",
+    "7c9ad817-9104-8443-8f35-619f912f37b7++8040" : "ORB_SLAM_valiantliu\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ORB_SLAM2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Xcode\/ORB_SLAM2.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/124.193.158.116:3691",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "11cd6892-7bdf-4890-ba15-c9344b2a9149"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/bj-scm.tencent.com\/tr\/tr_prar_rep",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7c9ad817-9104-8443-8f35-619f912f37b7++2336"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/bj-scm.tencent.com\/tr\/tr_prar_rep",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7c9ad817-9104-8443-8f35-619f912f37b7++8040"
+    }
+  ]
+}
